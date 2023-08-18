@@ -7,7 +7,7 @@ subtitle: <a href='#'>ImagingLab@ZJU.</a>. (The page of our lab is under constru
 profile:
   align: right
   image: hej.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <a href='#'>3190105603@zju.edu.cn.</a>
     <p>19883145491</p>
