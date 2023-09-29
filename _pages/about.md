@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>ImagingLab@ZJU.</a>. (The page of our lab is under construction, sry).
+subtitle: <a href='#'>ImagingLab@ZJU.</a>. (The page of our lab is under construction, sry)
 
 profile:
   align: right
