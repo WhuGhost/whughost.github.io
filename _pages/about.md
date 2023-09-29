@@ -9,8 +9,7 @@ profile:
   image: hej.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <a href='#'>3190105603@zju.edu.cn.</a>
-    <p>19883145491</p>
+    <a href='#'>22330135@zju.edu.cn.</a>
     <p>Hangzhou, Zhejiang</p>
 
 
@@ -21,6 +20,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 ---
-I am going to be a Master candidate at State Key Laboratory of Extreme Photonics and Instrumentation in Zhejiang University.
+I received the B.E. degree from College of Optical Science and Engineering in Zhejiang University in 2023.
 
-Previously, I received the B.E. degree from College of Optical Science and Engineering in Zhejiang University in 2023.
+Currently, I am a Master candidate at State Key Laboratory of Extreme Photonics and Instrumentation in Zhejiang University.
